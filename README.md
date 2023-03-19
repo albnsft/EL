@@ -33,6 +33,7 @@ Content:
 - AB_NYC_2019.csv: the data set
 - DT.ipynb: the notebook containing the second part of the project, a decision tree made from scratch
 - main.ipynb: the notebook containing all parts of the project: EDA, preprocessing, feature engineering, model selection, model evaluation, and model comparison
+- modeling.ipynb: the notebook containing the preprocessing, model selection, hyperparameter tuning, evaluations and score
 
 Bonus:
 - We implemented a research paper using tree-based classifiers to predict the direction of stock market prices. The code and results can be found here: https://github.com/albnsft/TreeBasedStockMarketDirection
