@@ -34,6 +34,9 @@ Content:
 - DT.ipynb: the notebook containing the second part of the project, a decision tree made from scratch
 - main.ipynb: the notebook containing all parts of the project: EDA, preprocessing, feature engineering, model selection, model evaluation, and model comparison
 
+Bonus:
+- We implemented a research paper using tree-based classifiers to predict the direction of stock market prices. The code and results can be found here: https://github.com/albnsft/TreeBasedStockMarketDirection
+
 Requirements: 
 - Python 3.7
 - Jupyter Notebook
