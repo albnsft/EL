@@ -40,7 +40,7 @@ Bonus:
 - We implemented a research paper using tree-based classifiers to predict the direction of stock market prices. The code and results can be found here: https://github.com/albnsft/TreeBasedStockMarketDirection
 
 Requirements: 
-- Python 3.7
+- Python 
 - Jupyter Notebook
 - Numpy
 - Pandas
@@ -49,3 +49,4 @@ Requirements:
 - Scikit-learn
 - XGBoost
 - Warnings
+- Category Encoders
