@@ -35,6 +35,7 @@ Content:
 - main.ipynb: the notebook containing all parts of the project: EDA, preprocessing, feature engineering, model selection, model evaluation, and model comparison
 - modeling.ipynb: the notebook containing the preprocessing, model selection, hyperparameter tuning, evaluations and score
 - Ensemble_Learning_Final_Report.pdf: final report of our project
+- ENSEMBLE LEARNING _ Airbnb price predictions & DT.pdf: slides presentation of our project
 
 Bonus:
 - We implemented a research paper using tree-based classifiers to predict the direction of stock market prices. The code and results can be found here: https://github.com/albnsft/TreeBasedStockMarketDirection
